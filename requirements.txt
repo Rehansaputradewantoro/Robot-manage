@@ -9,7 +9,6 @@ motor
 pillow
 psutil
 pykeyboard
-git+https://github.com/Rehansaputradewantoro/pyrogram
 python-arq
 requests
 search-engine-parser
